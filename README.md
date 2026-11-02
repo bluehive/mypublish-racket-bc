@@ -4,6 +4,10 @@
 
 > ✍️ **初稿の本文・サンプルコードは Grok（xAI の AI、Grok Bot）、続編原稿と編集計画は Codex が執筆しています。** 企画・監修は bluehive。
 
+## 想定読者
+
+Scratchを数時間操作した高校生から。DrRacketの準備、スタック、first・rest・cons、check-expectの説明から始めます。Racketや関数・リストの事前知識は前提にしません。[入門者向け改稿の検証](notes/beginner-revision-validation.md)と[別エージェントによる司書ペルソナ評価](notes/beginner-librarian-review.md)も参照できます。
+
 ## 目的
 
 - Zenn の本（`books/racket-bc/`）として公開し、同じ原稿から EPUB も生成する（Zenn → EPUB）。
