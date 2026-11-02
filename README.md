@@ -2,12 +2,12 @@
 
 **Racket でつくる bc** — Unix の電卓 `bc` / `dc` のクローンを Racket の教育用言語で実装する Zenn 本のリポジトリです。
 
-> ✍️ **本書の本文・サンプルコードは Grok（xAI の AI、Grok Bot）が執筆しています。** 企画・監修は bluehive。
+> ✍️ **初稿の本文・サンプルコードは Grok（xAI の AI、Grok Bot）、続編原稿と編集計画は Codex が執筆しています。** 企画・監修は bluehive。
 
 ## 目的
 
 - Zenn の本（`books/racket-bc/`）として公開し、同じ原稿から EPUB も生成する（Zenn → EPUB）。
-- **仕様**は cympfh さんの Zenn 本 [『プログラミング dc』](https://zenn.dev/cympfh/books/programming-dc) に従う。dc のスタック機械（数を積み、演算子がスタック上部を取り出して結果を積み戻す RPN）をモデルにする。
+- **仕様**は cympfh さんの Zenn 本 [『dcがいかに素敵なプログラミング言語であるか伝えたい』](https://zenn.dev/cympfh/books/programming-dc) に従う。dc のスタック機械（数を積み、演算子がスタック上部を取り出して結果を積み戻す RPN）をモデルにする。
 - 姉妹リポジトリ: [mypublish-racket-turtle](https://github.com/bluehive/mypublish-racket-turtle)
 
 ## 言語計画
@@ -26,7 +26,8 @@
 1. [はじめに](books/racket-bc/intro.md)
 2. [第1章 BSL でスタックをつくる](books/racket-bc/ch01-bsl-stack.md)
 3. [第2章 BSL で四則演算と表示](books/racket-bc/ch02-bsl-arith.md)
-4. [おわりに](books/racket-bc/closing.md)
+4. [第3章 トークン列を再帰で実行する](books/racket-bc/ch03-bsl-run.md)
+5. [おわりに](books/racket-bc/closing.md)
 
 ## フォルダ構成
 
@@ -64,3 +65,7 @@ mise install          # node, watchexec
 ## ライセンス
 
 [BSD 2-Clause License](LICENSE)
+
+## 編集計画
+
+現状分析・章構成案・承認対象は [続編執筆計画](notes/continuation-plan.md) を参照してください。

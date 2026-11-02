@@ -10,7 +10,7 @@ COVER = ROOT / "images/cover.jpg"
 
 TITLE = "Racket でつくる bc"
 SUBTITLE = "BSL で学ぶ dc 流スタック電卓"
-AUTHOR = "bluehive / Grok"
+AUTHOR = "bluehive / Grok / Codex"
 EPUB_BASENAME = "Racket でつくる bc"
 
 APPENDIX_C_MARKER = "rackunit"
