@@ -1,5 +1,7 @@
 # Scratch経験者向け改稿の範囲と検証
 
+> 過去のPR #2時点の記録です。現行の編集方針と適合評価は [今回の改稿記録](reader-model-revision-validation.md)・[新規の司書評価](reader-model-librarian-review.md) を参照してください。
+
 確認日: 2026-11-03（JST）。読者: Scratchを数時間操作した高校生。Racket、関数、リスト、テストの事前知識は前提としない。
 
 ## 変更範囲
