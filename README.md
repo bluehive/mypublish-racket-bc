@@ -4,9 +4,9 @@
 
 > ✍️ **初稿の本文・サンプルコードは Grok（xAI の AI、Grok Bot）、続編原稿と編集計画は Codex が執筆しています。** 企画・監修は bluehive。
 
-## 想定読者
+## この本で学ぶこと
 
-Scratchを数時間操作した高校生から。DrRacketの準備、スタック、first・rest・cons、check-expectの説明から始めます。Racketや関数・リストの事前知識は前提にしません。[入門者向け改稿の検証](notes/beginner-revision-validation.md)と[別エージェントによる司書ペルソナ評価](notes/beginner-librarian-review.md)も参照できます。
+DrRacketで式を実行する準備から始め、スタック、first・rest・cons、check-expectを具体例で説明します。関数とリストを組み合わせ、数と命令の並びを実行する小さな電卓を作ります。[現行の編集方針と検証](notes/reader-model-revision-validation.md)と[別エージェントによる司書ペルソナ評価](notes/reader-model-librarian-review.md)も参照できます。
 
 ## 目的
 

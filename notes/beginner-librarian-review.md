@@ -1,5 +1,7 @@
 # 初学者向け改稿の司書ペルソナレビュー
 
+> 過去のPR #2時点の記録です。現行の編集方針と適合評価は [今回の改稿記録](reader-model-revision-validation.md)・[新規の司書評価](reader-model-librarian-review.md) を参照してください。
+
 評価日：2026-11-03（JST）
 
 ## 評価の立場と対象

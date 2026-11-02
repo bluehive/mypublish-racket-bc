@@ -1,5 +1,5 @@
 title: "Racket でつくる bc"
-summary: "Scratchを数時間触った高校生から学べるRacket入門。皿の山でスタックを理解し、first・rest・consとテストから、小さなdc風電卓をつくる。BSL版。初稿: Grok、入門者向け改稿: Codex。"
+summary: "式の実行から始めるRacket入門。皿の山を手掛かりにスタックを学び、first・rest・consとテストを使って、小さなdc風電卓をつくる。BSL版。初稿: Grok、入門者向け改稿: Codex。"
 topics: ["Racket", "BSL", "dc", "bc", "プログラミング入門"]
 published: false
 price: 0
