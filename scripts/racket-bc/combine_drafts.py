@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Combine Zenn book chapters (books/) into manuscript book.md for EPUB.
 
-Canonical source: books/racket-bc/*.md (Issue #27 Q2).
+Canonical source: books/racket-bc-book/*.md (Issue #27 Q2).
 """
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-BOOK_DIR = ROOT / "books/racket-bc"
+BOOK_DIR = ROOT / "books/racket-bc-book"
 OUT_BOOK = ROOT / "manuscript/racket-bc/book.md"
 CONFIG = BOOK_DIR / "config.yaml"
 
@@ -76,7 +76,7 @@ def main() -> int:
         f"# {TITLE}\n\n",
         f"> **副題**: {SUBTITLE}  \n",
         f"> **著者**: {AUTHOR}  \n",
-        f"> **正本**: `books/racket-bc/` (Zenn book)  \n\n",
+        f"> **正本**: `books/racket-bc-book/` (Zenn book)  \n\n",
         "---\n\n",
     ]
     for slug in chapters:

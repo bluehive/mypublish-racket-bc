@@ -10,12 +10,12 @@
 
 ## 読んだ範囲と方法
 
-- `books/racket-bc/intro.md`
-- `books/racket-bc/ch01-bsl-stack.md`
-- `books/racket-bc/ch02-bsl-arith.md`
-- `books/racket-bc/ch03-bsl-run.md`
-- `books/racket-bc/closing.md`
-- `books/racket-bc/config.yaml`
+- `books/racket-bc-book/intro.md`
+- `books/racket-bc-book/ch01-bsl-stack.md`
+- `books/racket-bc-book/ch02-bsl-arith.md`
+- `books/racket-bc-book/ch03-bsl-run.md`
+- `books/racket-bc-book/closing.md`
+- `books/racket-bc-book/config.yaml`
 - `README.md`
 - 現行方針の `notes/reader-model-revision-validation.md`
 - 過去記録である `notes/beginner-librarian-review.md` と `notes/beginner-revision-validation.md` の扱い
